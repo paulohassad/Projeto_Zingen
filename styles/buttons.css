@@ -4,6 +4,7 @@
 
   border: 0;
   background-color: transparent;
+  
 
   display: flex;
   align-items: center;
@@ -54,7 +55,7 @@
     content: "";
     position: absolute;
     border-radius: inherit;
-    inset: .09375rem;
+    inset: 1px;
     background-color: var(--bg-color);
   }
 
